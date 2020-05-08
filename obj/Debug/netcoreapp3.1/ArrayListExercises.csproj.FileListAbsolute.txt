@@ -1,0 +1,13 @@
+C:\Users\karle\udemy-courses\c#-beginner\ArrayListExercises\obj\Debug\netcoreapp3.1\ArrayListExercises.csprojAssemblyReference.cache
+C:\Users\karle\udemy-courses\c#-beginner\ArrayListExercises\obj\Debug\netcoreapp3.1\ArrayListExercises.csproj.CoreCompileInputs.cache
+C:\Users\karle\udemy-courses\c#-beginner\ArrayListExercises\obj\Debug\netcoreapp3.1\ArrayListExercises.AssemblyInfoInputs.cache
+C:\Users\karle\udemy-courses\c#-beginner\ArrayListExercises\obj\Debug\netcoreapp3.1\ArrayListExercises.AssemblyInfo.cs
+C:\Users\karle\udemy-courses\c#-beginner\ArrayListExercises\bin\Debug\netcoreapp3.1\ArrayListExercises.exe
+C:\Users\karle\udemy-courses\c#-beginner\ArrayListExercises\bin\Debug\netcoreapp3.1\ArrayListExercises.deps.json
+C:\Users\karle\udemy-courses\c#-beginner\ArrayListExercises\bin\Debug\netcoreapp3.1\ArrayListExercises.runtimeconfig.json
+C:\Users\karle\udemy-courses\c#-beginner\ArrayListExercises\bin\Debug\netcoreapp3.1\ArrayListExercises.runtimeconfig.dev.json
+C:\Users\karle\udemy-courses\c#-beginner\ArrayListExercises\bin\Debug\netcoreapp3.1\ArrayListExercises.dll
+C:\Users\karle\udemy-courses\c#-beginner\ArrayListExercises\bin\Debug\netcoreapp3.1\ArrayListExercises.pdb
+C:\Users\karle\udemy-courses\c#-beginner\ArrayListExercises\obj\Debug\netcoreapp3.1\ArrayListExercises.dll
+C:\Users\karle\udemy-courses\c#-beginner\ArrayListExercises\obj\Debug\netcoreapp3.1\ArrayListExercises.pdb
+C:\Users\karle\udemy-courses\c#-beginner\ArrayListExercises\obj\Debug\netcoreapp3.1\ArrayListExercises.genruntimeconfig.cache
